@@ -35,3 +35,4 @@ console.log(Math.pow(20, 3));
 console.log(Math.pow(20, 3));
 console.log(Math.pow(20, 3));
 console.log(2 + 4);
+console.log(2 + 4);
