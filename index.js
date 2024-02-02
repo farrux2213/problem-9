@@ -9,3 +9,4 @@ console.log(Math.sqrt(81));
 console.log(Math.sqrt(81));
 console.log(Math.sqrt(1024));
 console.log(Math.sqrt(1024));
+console.log(Math.sqrt(1024));
