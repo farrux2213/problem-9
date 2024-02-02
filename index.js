@@ -13,5 +13,4 @@ console.log(Math.sqrt(1024));
 console.log(Math.sqrt(1024));
 console.log(Math.sqrt(1024));
 console.log(Math.sqrt(1024));
-console.log(Math.sqrt(1024));
-console.log(Math.sqrt(10));
+console.log(Math.pow(20, 3));
